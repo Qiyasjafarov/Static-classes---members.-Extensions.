@@ -1,0 +1,14 @@
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\bin\Debug\netcoreapp3.1\Static classes - members..exe
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\bin\Debug\netcoreapp3.1\Static classes - members..deps.json
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\bin\Debug\netcoreapp3.1\Static classes - members..runtimeconfig.json
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\bin\Debug\netcoreapp3.1\Static classes - members..runtimeconfig.dev.json
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\bin\Debug\netcoreapp3.1\Static classes - members..dll
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\bin\Debug\netcoreapp3.1\Static classes - members..pdb
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\obj\Debug\netcoreapp3.1\Static classes - members..csproj.AssemblyReference.cache
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\obj\Debug\netcoreapp3.1\Static classes - members..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\obj\Debug\netcoreapp3.1\Static classes - members..AssemblyInfoInputs.cache
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\obj\Debug\netcoreapp3.1\Static classes - members..AssemblyInfo.cs
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\obj\Debug\netcoreapp3.1\Static classes - members..csproj.CoreCompileInputs.cache
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\obj\Debug\netcoreapp3.1\Static classes - members..dll
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\obj\Debug\netcoreapp3.1\Static classes - members..pdb
+C:\Users\qiyas\source\repos\Static classes - members\Static classes - members\obj\Debug\netcoreapp3.1\Static classes - members..genruntimeconfig.cache

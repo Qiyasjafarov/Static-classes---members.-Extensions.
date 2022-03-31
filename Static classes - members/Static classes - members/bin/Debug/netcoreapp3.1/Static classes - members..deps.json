@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Static classes - members./1.0.0": {
+        "runtime": {
+          "Static classes - members..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Static classes - members./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
